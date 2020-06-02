@@ -1,0 +1,898 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"butt",
+				"button1_bg.jpg\tw:6 h:32"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"xiao",
+				"xiaom_left.png\tw:234 h:457"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"maring",
+				"margin-right"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"fotn",
+				"font-family"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padidng",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bacn",
+				"background-image"
+			],
+			[
+				"yellow",
+				"yellowgreen"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"top",
+				"top.jpg\tw:1000 h:464"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"parse",
+				"parseFloat()"
+			],
+			[
+				"s",
+				"slice\t.slice()"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"nav",
+				"nav_bg-line.png\tw:2 h:55"
+			],
+			[
+				"text",
+				"text-spacing"
+			],
+			[
+				"na",
+				"nav_bg.png\tw:3 h:55"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"get",
+				"getDay()"
+			],
+			[
+				"sub",
+				"substring()\tString"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"ind",
+				"indexOf()\tArray"
+			],
+			[
+				"number",
+				"number2\tDefault"
+			],
+			[
+				"num",
+				"number1\tDefault"
+			],
+			[
+				"str",
+				"str6\tDefault"
+			],
+			[
+				"o",
+				"01jsdeom.js"
+			],
+			[
+				"1",
+				"1.js"
+			],
+			[
+				"nu",
+				"number\tDefault"
+			],
+			[
+				"da",
+				"day1\tDefault"
+			],
+			[
+				"day",
+				"day2\tDefault"
+			],
+			[
+				"numb",
+				"number1\tDefault"
+			],
+			[
+				"w",
+				"width\tcss"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"e",
+				"e-resize"
+			],
+			[
+				"br",
+				"break-all"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"my",
+				"mydiv2\tDefault"
+			],
+			[
+				"al",
+				"alert()\tWindow"
+			],
+			[
+				"onl",
+				"onload\tBody"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bordre-",
+				"border-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"j",
+				"jh.jpg\tw:140 h:44"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"out",
+				"outline-style"
+			],
+			[
+				"pr",
+				"pre"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"ye",
+				"yellowgreen"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ary",
+				"ary1\tDefault"
+			],
+			[
+				"con",
+				"concat()\tArray"
+			],
+			[
+				"prase",
+				"parseFloat()"
+			],
+			[
+				"numer",
+				"number1\tDefault"
+			],
+			[
+				"par",
+				"parseFloat()"
+			],
+			[
+				"pars",
+				"parseInt()"
+			],
+			[
+				"su",
+				"substring()\tString"
+			],
+			[
+				"foor",
+				"floor()\tMath"
+			],
+			[
+				"new",
+				"newday1\tDefault"
+			],
+			[
+				"oc",
+				"onclick\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"cl",
+				"cellspacing\tAttr"
+			],
+			[
+				"l",
+				"label\tAttr"
+			],
+			[
+				"ar",
+				"ary3\tDefault"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"sc",
+				"score\tDefault"
+			],
+			[
+				"tos",
+				"toString()"
+			],
+			[
+				"type",
+				"typeof\tDefault"
+			],
+			[
+				"age",
+				"age2\tDefault"
+			],
+			[
+				"ac",
+				"acos()\tMath"
+			],
+			[
+				"pas",
+				"parseFloat()"
+			],
+			[
+				"name",
+				"name3"
+			],
+			[
+				"wr",
+				"write()\tDocument"
+			],
+			[
+				"prom",
+				"prompt()\tWindow"
+			],
+			[
+				"et",
+				"et_right.png\tw:218 h:128"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"cen",
+				"center-r.png\tw:229 h:96"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"noe",
+				"none"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bu",
+				"button1.jpg\tw:80 h:32"
+			],
+			[
+				"button",
+				"button2.jpg\tw:80 h:32"
+			],
+			[
+				"banner",
+				"banner1.jpg\tw:600 h:150"
+			],
+			[
+				"tb",
+				"tb.gif\tw:12 h:12"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"por",
+				"promise\t.promise()"
+			],
+			[
+				"ab",
+				"abs()\tMath"
+			],
+			[
+				"foo",
+				"floor()\tMath"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ColorSchemeSelector",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"ispg",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Web开发一/web课上及作业/css/reset.css",
+		"/E/Web开发一/web课上及作业/css/重置.css",
+		"/I/4.14前端课堂所需软件最新版/Sublime Text 3 免安装版/Sublime Text 3 优化版/Data/Packages/User/Preferences.sublime-settings",
+		"/F/六期班/css/04css/固定定位.html",
+		"/F/六期班/css/04css/04-案例/导航作业案例/index.html",
+		"/F/六期班/css/04css/04-案例/images/deom.html",
+		"/F/六期班/css/04css/test.html",
+		"/F/六期班/css/04css/04-案例/小米官网案例/deome.html",
+		"/F/六期班/css/04css/相对定位.html",
+		"/F/六期班/css/04css/子绝父相.html",
+		"/F/六期班/css/04css/布局二.html",
+		"/F/六期班/css/04css/导航案例.html",
+		"/F/六期班/css/04css/绝对定位.html",
+		"/F/六期班/css/04css/静态定位.html",
+		"/F/六期班/css/04css/css初始化.html",
+		"/F/六期班/css/04css/清除浮动.html",
+		"/F/六期班/css/04css/布局三.html",
+		"/F/六期班/css/04css/网页布局.html",
+		"/F/六期班/css/04css/03简单导航栏.html",
+		"/F/六期班/css/04css/02.html",
+		"/F/六期班/css/04css/01.html",
+		"/F/六期班/css/03css/体育栏目.html",
+		"/F/六期班/css/03css/爱宠知识.html",
+		"/F/六期班/css/03css/个人资料.html",
+		"/F/六期班/css/03css/04-案例/个人资料.html",
+		"/F/六期班/css/03css/行业动态.html",
+		"/F/六期班/css/03css/04-案例/行业动态.png",
+		"/F/六期班/css/03css/细线表格.html",
+		"/F/六期班/css/03css/01.html",
+		"/F/六期班/css/03css/12外边距合并问题.html",
+		"/F/六期班/css/03css/11盒子外边距.html",
+		"/F/六期班/css/03css/10继承的盒子paddin值设置.html",
+		"/F/六期班/css/03css/09盒子居中.html",
+		"/F/六期班/css/03css/08盒子大小计算.html",
+		"/F/六期班/css/03css/07内边距.html",
+		"/F/六期班/css/03css/05新浪导航.html",
+		"/F/六期班/css/03css/06表单控件.html",
+		"/F/六期班/css/03css/04盒子模型.html",
+		"/F/六期班/css/03css/03行高嵌套关系.html",
+		"/F/六期班/css/03css/02行高单位问题.html",
+		"/F/六期班/css/02css/deom.html",
+		"/F/六期班/css/02css/04-案例/列表显示.html",
+		"/F/六期班/css/02css/收索.html",
+		"/F/六期班/css/02css/简单导航.html",
+		"/F/六期班/css/02css/购物车.html",
+		"/F/六期班/css/02css/简单导航栏.html",
+		"/F/六期班/css/02css/04-案例/购物车案例.html",
+		"/F/六期班/css/02css/英雄联盟.html",
+		"/F/六期班/css/02css/12背景属性联写.html",
+		"/F/六期班/css/02css/11背景.html",
+		"/F/六期班/css/02css/10伪类.html",
+		"/F/六期班/css/02css/09.html",
+		"/F/六期班/css/02css/04-案例/css 权重精华6题/CSS继承性和层叠性精华6题 第4题.html",
+		"/F/六期班/css/02css/04-案例/css 权重精华6题/CSS继承性和层叠性精华6题 第6题.html",
+		"/F/六期班/css/02css/08优先级.html",
+		"/F/六期班/css/02css/07继承的特殊性.html",
+		"/F/六期班/css/02css/06继承性.html",
+		"/F/六期班/css/02css/05.html",
+		"/F/六期班/css/02css/04元素之间的相互转化.html",
+		"/F/六期班/css/02css/03.html",
+		"/F/六期班/css/02css/01.html",
+		"/F/六期班/css/02css/02.html",
+		"/F/六期班/css/02css/1.css",
+		"/F/六期班/css/02css/01行内样式写法.html",
+		"/F/六期班/css/01css/选择器综合.html",
+		"/F/六期班/css/01css/11案例.html",
+		"/F/六期班/css/01css/12其他选择器介绍.html",
+		"/F/六期班/css/01css/10并集选择器.html",
+		"/F/六期班/css/01css/09后代选择器.html",
+		"/F/六期班/css/01css/08复合选择器.html",
+		"/F/六期班/css/01css/07文本属性介绍.html",
+		"/F/六期班/css/01css/06Google案例介绍.html",
+		"/F/六期班/css/01css/04-案例/google案例.html",
+		"/F/六期班/css/01css/05通配符选择器.html",
+		"/F/六期班/css/01css/04ID选择器.html",
+		"/F/六期班/css/01css/03类命名规范.html",
+		"/F/六期班/css/01css/02类选择器.html",
+		"/F/六期班/css/01css/01.html",
+		"/F/五期js/03js/13补录数组动态取值赋值.html",
+		"/F/五期js/03js/14补录数组案例介绍.html",
+		"/F/五期js/03js/12补录continue.html",
+		"/F/五期js/03js/11补录代码片段.html",
+		"/F/五期js/03js/10函数的使用.html",
+		"/F/五期js/03js/09数组创建的方式.html",
+		"/F/五期js/03js/08for循环.html",
+		"/F/五期js/03js/07do..while介绍.html",
+		"/F/五期js/03js/06whlie循环.html",
+		"/F/五期js/03js/05自增自减.html",
+		"/F/五期js/03js/04案例介绍.html",
+		"/F/五期js/03js/03switch语法结构.html",
+		"/F/五期js/03js/02等号运算符.html",
+		"/F/五期js/03js/01案例介绍.html",
+		"/F/五期js/03js/案例综合.html",
+		"/F/五期js/03js/02.html",
+		"/F/五期js/03js/01.html",
+		"/F/五期js/02js/02if..else条件分支.html",
+		"/F/五期js/02js/01案例介绍.html",
+		"/F/五期js/01js/04变量.html",
+		"/F/五期js/01js/01deom.html",
+		"/F/五期js/01js/03页面输出消息几种方式.html",
+		"/F/五期js/01js/02js书写位置介绍.html",
+		"/F/五期js/01js/01.js",
+		"/F/六期班/css/案例/shanghe.html",
+		"/F/六期班/html/02html/shanghe.html",
+		"/D/工作软件/Sublime Text 3 优化版/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/F/六期班/html/02html/05.html",
+		"/F/六期班/html/02html/01.html",
+		"/F/六期班/html/02html/04-案例/细线课程表.html",
+		"/F/六期班/html/02html/04.html",
+		"/F/六期班/html/02html/03.html",
+		"/F/六期班/html/02html/04-案例/01 小说排行榜/deom.html",
+		"/F/六期班/html/02html/02.html",
+		"/F/六期班/html/02html/1.html",
+		"/F/六期班/html/01html/01.html",
+		"/F/六期班/html/01html/07非重点知识.html",
+		"/F/六期班/html/01html/05特殊符号.html",
+		"/F/六期班/html/01html/06列表.html",
+		"/F/六期班/html/01html/04毛链接的使用.html",
+		"/F/六期班/html/01html/04-案例/02 春夏秋冬/dong.html",
+		"/F/六期班/html/01html/04-案例/02 春夏秋冬/qiu.html",
+		"/F/六期班/html/01html/2/1.html",
+		"/F/六期班/html/01html/04-案例/02 春夏秋冬/chun.html",
+		"/F/六期班/html/01html/04-案例/02 春夏秋冬/xia.html",
+		"/F/六期班/html/01html/03图片标签.html",
+		"/F/六期班/html/01html/01案例演示.html",
+		"/F/六期班/html/01html/01单标签介绍.html",
+		"/F/六期班/html/01html/04-案例/01气温案例.html",
+		"/F/六期班/html/01html/02.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reset.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"01.html"
+			],
+			[
+				"新浪",
+				"新浪案例.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,37 @@
+.div2{
+	height:420px;
+	width:1920px;
+	background-color:#1c036c;
+	position:relative;
+}
+.zhu{
+	height:420px;
+	width:1920px;
+	position:absolute;
+}
+#zhu{
+	width:1200px;
+	height:420px;
+	margin-right:330px;
+	margin-left:390px;
+}
+.nav{
+	width:190px;
+	height:420px;
+	background-color:rgba(0,0,0,0.3);
+	margin-left:360px;
+	margin-right:1370px;
+	float:left;
+	position:absolute;
+}
+.nav1 a{
+	color:white;
+}
+.nav1{
+	width:190px;
+	height:48px;
+	padding:0 15px;
+}
+.nav1 a:hover{
+	color:#00b4ff;
+}

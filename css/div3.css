@@ -1,0 +1,51 @@
+.div3{
+	width:1200px;
+	height:60px;
+	background-color:#fff;
+	box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+	margin-right:360px;
+	margin-left:360px;
+	margin-top:8px;
+	position:relative;
+}
+.lei{
+	width:1105px;
+	height:18px;
+	margin-right:61px;
+	margin-left:34px;
+	position:absolute;
+	top:21px;
+	bottom:21px;
+}
+.fen a{
+	color:black;
+}
+.fen a:hover{
+	color:#00a4ff;
+}
+.fen{
+	width:100px;
+	display:inline-block;
+	float:left;
+	text-align:center;
+	border-right:1px solid gray;
+}
+.ja{
+	width:100px;
+	display:inline-block;
+	float:left;
+	text-align:center;
+}
+.ja a{
+	color:#050505;
+}
+.ja a:hover{
+	color:#00a4ff;
+}
+.xiu{
+	display:inline-block;
+	float:right;
+}
+.xiu a{
+	color:#00a4ff;
+}
